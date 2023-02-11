@@ -3,7 +3,6 @@ import ReactDOM from "react-dom/client";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-// import { store } from './components/1-CounterApp/redux/Store';
 import { store } from "./ToDoApp/redux/store";
 import { Provider } from "react-redux";
 
